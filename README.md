@@ -33,7 +33,7 @@ The assistant retrieves institutional data and augments it with generative capab
 
 ```
 📂 Admission-Agent/  
-├── 🖼️ Project template for AI Agent case study.pptx  
+├── 🖼️ College Admission Agent.pdf  
 ├── 📓 Admission Agent.ipynb   
 └── 📄 README.md  
 ```
